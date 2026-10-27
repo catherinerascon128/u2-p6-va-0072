@@ -10,13 +10,9 @@ plt.show()
 
 # perzonalizar grafica
 plt.plot(cant_productos,precio, color = "green", marker = "o", linestyle = "dashed", linewidth = 2, markersize = 12)
-plt.title("venta de walmart")
+plt.title("venta de walmart 0072")
 plt.xlabel("cant prod")
 plt.ylabel("precio")
 plt.show()
-
-
-
-
 
 print("catherine eileen huerta rascon NC = 0072")
